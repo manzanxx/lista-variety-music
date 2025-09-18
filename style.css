@@ -42,7 +42,7 @@ p {
     color: #735F5C;       /* aquí pones el color que quieras */
 }
 .bloque-2 p:nth-child(3) {
-    font-weight: bold;     /* hace el texto más gordo */
+    font-weight: 400;     /* hace el texto más gordo */
     font-size: 16px;       /* opcional: ajustar tamaño */
     color: #000000;        /* opcional: color */
 }
