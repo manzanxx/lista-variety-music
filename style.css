@@ -17,12 +17,19 @@ p {
 }
 
 .bloque {
-    display: flex;         /* pone la imagen y el texto en fila */
-    align-items: center;   /* centra verticalmente la imagen y el texto */
-    gap: 20px;             /* espacio entre imagen y texto */
-    margin: 20px 0;        /* espacio arriba y abajo */
+    display: flex;         
+    align-items: flex-start; /* la imagen alineada arriba */
+    gap: 15px;             
+    margin: 20px 0;        
 }
 
 .bloque img {
-    border-radius: 10px;   /* opcional: esquinas redondeadas */
+    width: 50px;       /* imagen más pequeña */
+    height: auto;      
+    border-radius: 5px;
+}
+
+.bloque p {
+    font-size: 12px;   /* texto más pequeño */
+    line-height: 1.4;  /* espacio entre líneas para que sea legible */
 }
