@@ -21,7 +21,7 @@ p {
     align-items: center;    /* centra verticalmente la imagen y el texto */
     gap: 15px;             
     margin: 50px 0;   
-    padding-left: 90px;    /* espacio desde el borde izquierdo */
+    padding-left: 200px;    /* espacio desde el borde izquierdo */
 }
 
 .bloque img {
