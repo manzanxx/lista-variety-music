@@ -19,7 +19,7 @@ p {
 .bloque {
     display: flex;         
     align-items: center;    /* centra verticalmente la imagen y el texto */
-    gap: 25px;             
+    gap: 15px;             
     margin: 50px 0;   
     padding-left: 90px;    /* espacio desde el borde izquierdo */
 }
