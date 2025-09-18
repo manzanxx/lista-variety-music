@@ -34,5 +34,5 @@ p {
     line-height: 1.4;  
     margin: 0;         /* elimina márgenes extra para centrar mejor */
     font-family: Arial, sans-serif;  /* aquí cambias la fuente */
-    font-weight: 200;   /* esto quita la negrita */
+    font-weight: 500;   /* esto quita la negrita */
 }
