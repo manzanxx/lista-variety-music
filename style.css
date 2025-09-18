@@ -36,7 +36,7 @@ p {
 }
 
 .bloque-2 p:first-child {
-    font-size: 30px;      /* aumenta el tamaño del primer texto */
+    font-size: 35px;      /* aumenta el tamaño del primer texto */
     font-weight: bold;    /* opcional: más destacado */
     margin: 0;
     color: #735F5C;       /* aquí pones el color que quieras */
