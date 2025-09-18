@@ -32,11 +32,12 @@ p {
 .bloque-2 img {
     width: 80px;          /* tamaño de la imagen */
     height: auto;
-    border-radius: 25%;   /* hace la imagen completamente redonda */
+    border-radius: 10%;   /* hace la imagen completamente redonda */
 }
 
 .bloque-2 p:first-child {
     font-size: 30px;      /* aumenta el tamaño del primer texto */
     font-weight: bold;    /* opcional: más destacado */
     margin: 0;
+    color: #735F5C;       /* aquí pones el color que quieras */
 }
