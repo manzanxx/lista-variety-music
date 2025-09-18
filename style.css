@@ -20,7 +20,7 @@ p {
     display: flex;         
     align-items: center;    /* centra verticalmente la imagen y el texto */
     gap: 15px;             
-    margin: 20px 0;        
+    margin: 50px 0;        
 }
 
 .bloque img {
