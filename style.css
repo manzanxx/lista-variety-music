@@ -16,24 +16,15 @@ p {
     font-weight: 800;  /* semi-grueso */
 }
 
-.bloque {
-    display: flex;         
-    align-items: center;    /* centra verticalmente la imagen y el texto */
-    gap: 15px;             
-    margin: 50px 0;   
-    padding-left: 200px;    /* espacio desde el borde izquierdo */
+.bloque-2 {
+    display: flex;            /* pone los elementos en fila */
+    align-items: center;      /* centra verticalmente la imagen y textos */
+    gap: 15px;                /* espacio entre los elementos */
+    padding-left: 300px;       /* separa todo del borde izquierdo */
 }
 
-.bloque img {
-    width: 50px;       /* tamaño de la imagen */
-    height: auto;      
-    border-radius: 5px;
-}
-
-.bloque p {
-    font-size: 12px;   /* tamaño del texto */
-    line-height: 1.4;  
-    margin: 0;         /* elimina márgenes extra para centrar mejor */
-    font-family: Arial, sans-serif;  /* aquí cambias la fuente */
-    font-weight: 600;   /* esto quita la negrita */
+.bloque-2 p {
+    font-size: 14px;
+    margin: 0;
+    font-weight: normal;
 }
