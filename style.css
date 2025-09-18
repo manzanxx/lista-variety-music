@@ -15,3 +15,14 @@ p {
     font-size: 20px;
     font-weight: 800;  /* semi-grueso */
 }
+
+.bloque {
+    display: flex;         /* pone la imagen y el texto en fila */
+    align-items: center;   /* centra verticalmente la imagen y el texto */
+    gap: 20px;             /* espacio entre imagen y texto */
+    margin: 20px 0;        /* espacio arriba y abajo */
+}
+
+.bloque img {
+    border-radius: 10px;   /* opcional: esquinas redondeadas */
+}
